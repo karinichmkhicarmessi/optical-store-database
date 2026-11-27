@@ -1,0 +1,12 @@
+.env
+.env.*
+pgpass.conf
+.pgpass
+*.log
+*.dump
+*.backup
+backups/
+private/
+.dbeaver/
+.idea/
+.vscode/
